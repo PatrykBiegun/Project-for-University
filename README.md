@@ -1,2 +1,3 @@
 # Project-for-University
-Projekt na studia z wykożystaniem html css i php 
+Projekt na studia z wykorzystaniem html css i php 
+
