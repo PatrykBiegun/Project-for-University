@@ -2,11 +2,15 @@
 Projekt na studia z wykorzystaniem html, css, php oraz frameworku "Amelia" 
 
 Projekt "jezioro"
+
 Logi do admina: biegun, biegun
+
 Używałem do niego frameworku „Amelia” oraz „Medoo” do połączeń z bazą
+
 Layout strony zrobiłem za pomocą programu nicepage, jest on responsywny na inne rozdzielczości 
 
 Baza prezentuje się w następujący sposób, każdy użytkownik na początku ma role którą potem można zmienić w panelu administratora. Ryby stanowią osobną tabelę z której czerpię informacje do tabeli.
+
 Sprzęt ma kategorie w osobnej tabeli która pozwala na używanie ich wielokrotnie na podstawie ID.
 Role są 3: stały klient, użytkownik oraz administrator
 Używałem Timestampów do zapisywania czasu, są o tyle przydatne że same zapisują się w konkretnych momentach więc nie trzeba tego uwzględniać w kodzie.
